@@ -7,9 +7,11 @@ public class ItemWord : MonoBehaviour
     public int _key;
     public GameObject _targetBubble;
     public GameObject _selectedObject;
+    public InteractableObject door;
 
     Vector3 _offset;
     // Update is called once per frame
+
     void Update()
     {
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -34,6 +36,7 @@ public class ItemWord : MonoBehaviour
         {
             if(_targetBubble.GetComponent<PopUp>().Activate(_key))
             {
+                door.Locked = false;
                 gameObject.SetActive(false);
             }
         }

@@ -123,6 +123,126 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &388121759 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+  m_PrefabInstance: {fileID: 341669782827922902}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &473833450
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1519659686}
+    m_Modifications:
+    - target: {fileID: 341669782574281032, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Name
+      value: Kitchen Door (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281076, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_FlipX
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281076, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7704383bfb8ae8141b681c1484f537ee, type: 3}
+    - target: {fileID: 341669782574281076, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: DoorName
+      value: Hallway(Bedroom)
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281079, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Size.x
+      value: 0.4081602
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281079, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.18843603
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281079, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281079, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 6.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+--- !u!1 &734693568 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 341669782574281032, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+  m_PrefabInstance: {fileID: 1521269609}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &734693569
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734693568}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1075815828
 GameObject:
   m_ObjectHideFlags: 0
@@ -134,6 +254,8 @@ GameObject:
   - component: {fileID: 1075815829}
   - component: {fileID: 1075815831}
   - component: {fileID: 1075815830}
+  - component: {fileID: 1075815833}
+  - component: {fileID: 1075815832}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -226,6 +348,53 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1075815832
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1075815828}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.026652932, y: 2.9851162}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.2, y: 3.2}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.7607479, y: 9.170235}
+  m_EdgeRadius: 0
+--- !u!50 &1075815833
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1075815828}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1519659685
 GameObject:
   m_ObjectHideFlags: 0
@@ -253,7 +422,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 10}
   m_LocalScale: {x: 1.01, y: 1.01, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 388121759}
+  - {fileID: 1521269610}
+  - {fileID: 2019934092}
   m_Father: {fileID: 1682548064}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -308,6 +480,84 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1521269609
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1519659686}
+    m_Modifications:
+    - target: {fileID: 341669782574281032, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Name
+      value: Stairway (Up)
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.9802962
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.9802962
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.405941
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281076, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: DoorName
+      value: Hallway(Kitchen)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+--- !u!4 &1521269610 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+  m_PrefabInstance: {fileID: 1521269609}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1682548061
 GameObject:
   m_ObjectHideFlags: 0
@@ -320,7 +570,7 @@ GameObject:
   - component: {fileID: 1682548063}
   - component: {fileID: 1682548062}
   m_Layer: 0
-  m_Name: Main Camera (1)
+  m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -393,3 +643,133 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1826133725 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 341669782574281032, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+  m_PrefabInstance: {fileID: 341669782827922902}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &1826133726
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1826133725}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!1 &2019934091 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 341669782574281032, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+  m_PrefabInstance: {fileID: 473833450}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2019934092 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+  m_PrefabInstance: {fileID: 473833450}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &2019934093
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019934091}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!1001 &341669782827922902
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1519659686}
+    m_Modifications:
+    - target: {fileID: 341669782574281032, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Name
+      value: Kitchen Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.5049515
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.3564357
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281033, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281076, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: DoorName
+      value: Hallway(Kitchen)
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281079, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Size.x
+      value: 1.9694829
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281079, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.91525865
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
