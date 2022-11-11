@@ -55,17 +55,20 @@ public class InteractableObject : MonoBehaviour
         switch (DoorName)
         {
             case "Bedroom(Hallway)":
-                SceneManager.LoadScene(1);
-                break;
-
-            case "Hallway(Bedroom)":
-                SceneManager.LoadScene(0);
-                break;
-
-            case "Hallway(Kitchen)":
                 SceneManager.LoadScene(2);
                 break;
 
+            case "Hallway(Bedroom)":
+                SceneManager.LoadScene(1);
+                break;
+
+            case "Hallway(Kitchen)":
+                SceneManager.LoadScene(3);
+                break;
+
+            case "Title(Bedroom)":
+                SceneManager.LoadScene(0);
+                break;
             
 
 

@@ -20,8 +20,11 @@ public class ItemWord : MonoBehaviour
             Collider2D targetObject = Physics2D.OverlapPoint(mousePosition);
             if (targetObject)
             {
-                _selectedObject = targetObject.transform.gameObject;
-                _offset = _selectedObject.transform.position - mousePosition;
+                if (targetObject.gameObject.tag == "Interactable")
+                {
+                    _selectedObject = targetObject.transform.gameObject;
+                    _offset = _selectedObject.transform.position - mousePosition;
+                }
             }
         }
         if (_selectedObject)
