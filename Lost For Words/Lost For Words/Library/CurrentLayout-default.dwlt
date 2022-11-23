@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 998
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -597,23 +597,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bc430000
-      m_LastClickedID: 0
-      m_ExpandedIDs: f4f9fffffcf9ffff7efaffff5afbffffea43000006440000264400002c4400003e440000
+      m_SelectedIDs: fa730000
+      m_LastClickedID: 29690
+      m_ExpandedIDs: 0e96ffff2696ffff2e96ffffcc97ffffd497ffff129dffff1a9dffff849dffff8c9dffff229effff3a9effff429effff0a9fffffb49fffffc09fffffce9fffffd69fffff1ea2ffff0ea7ffffd8a8ffffe0a8ffff6eb2ffffc2b2ffffcab2ffffc6b8ffff0ab9ffff86b9ffff06bbffff0ebbffff8cbbffff94bbffff0ebfffff18bfffffb6bfffff34c0ffffcac0ffff1ec2ffff0cd0ffff1ad0ffff38d0ffff18d2ffff20d2ffff6cd4ffff76d4ffff68deffffd4deffffcadfffff5ae0fffffae1ffff64e2ffff06e5ffff3ae6fffff6e6ffffdae9ffffe8efffff8cf0ffff0af2ffff96f2ffff86f3ffffbef3ffffc6f3ffff1af4ffffbef4ffff78f5ffffecf6ffffaef8ffffe2f8ffff62f9ffff5afbffff9a440000b6440000584500007a450000c6450000cc45000014460000364600005246000058460000a6460000c8460000ea460000f046000002470000384700005a470000764700007c470000c4470000e6470000344800003a48000082480000044900000a4900005e490000ec490000f24900003a4a00004e510000545100009c510000605d0000665d0000ae5d0000525e0000585e0000a05e0000e05f0000f65f000078600000a6600000ea610000f0610000aa620000dc620000fe620000046300004c6300007e630000e6630000ec630000fe630000386400003c6400006e640000de640000e464000086650000b8650000a4660000aa660000bc660000fc660000306700007c6a0000826a0000946a0000d86a00000c6b0000946d00009a6d0000ec6d0000f26d0000266e0000a26e0000a86e0000f46e0000fa6e00000e6f0000306f0000ae6f0000b46f0000c66f000000700000067000003c7000006c7300007273000084730000be730000c4730000d8730000fa730000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: kitchen_popup_can
+        m_OriginalName: kitchen_popup_can
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 27410
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -659,9 +659,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.58275837, y: -0.6044762, z: 723.1912}
+    m_Target: {x: -0.14017792, y: 0.7942021, z: -0.7506552}
     speed: 2
-    m_Value: {x: 0.7848184, y: -0.52041924, z: 756.65454}
+    m_Value: {x: -0.14017792, y: 0.7942021, z: -0.7506552}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -712,9 +712,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.5180063
+    m_Target: 6.1503053
     speed: 2
-    m_Value: 6.8251376
+    m_Value: 6.1503053
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -827,13 +827,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\GGPC\Documents\GitHub\startOfBuild\Lost For Words\Lost
     For Words
@@ -841,23 +841,23 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc430000
-    m_LastClickedID: 17340
-    m_ExpandedIDs: 00000000ba430000bc430000be43000000ca9a3b
+    m_SelectedIDs: 3e440000
+    m_LastClickedID: 17470
+    m_ExpandedIDs: 00000000fe430000004400000244000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Scenes
+      m_OriginalName: Scenes
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 17470
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -871,7 +871,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ba430000bc430000be430000
+    m_ExpandedIDs: 00000000fe4300000044000002440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -899,7 +899,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000ae430000fa420000024400004649000000440000481700005e1700002444000022440000565900005a440000f24a0000b444000082f30100a65300001e540000ac8b01007abb0400364400001444000000000000bc430000
+    m_ExpandedInstanceIDs: c6230000ae430000fa420000024400004649000000440000481700005e1700002444000022440000565900005a440000f24a0000b444000082f30100a65300001e540000ac8b01007abb04001444000000000000bc430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

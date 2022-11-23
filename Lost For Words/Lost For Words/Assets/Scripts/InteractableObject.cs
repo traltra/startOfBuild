@@ -8,10 +8,12 @@ public class InteractableObject : MonoBehaviour
 {
     private SpriteRenderer _sprite;
     private Character _player;
+    private GameObject popUps;
     public UnityEvent _events;
 
     public bool Locked = false;
     public bool IsTouchingObject = false;
+    public bool GeneratesPopUp = false;
     public string DoorName;
 
     // Start is called before the first frame update
@@ -45,6 +47,12 @@ public class InteractableObject : MonoBehaviour
     {
         _sprite.enabled = false;
         IsTouchingObject = false;
+
+        if (GeneratesPopUp == true)
+        {
+            popUps = GameObject.FindWithTag("popUp");
+            popUps.gameObject.SetActive(false);
+        }
         
     }
 
