@@ -763,6 +763,38 @@ PrefabInstance:
       propertyPath: DoorName
       value: Hallway(Kitchen)
       objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1075815828}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: UnityEngine.Renderer, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 341669782574281078, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
+      propertyPath: _events.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 341669782574281079, guid: e32c5ee7d03e55a4cb3885f1c48cfab3, type: 3}
       propertyPath: m_Size.x
       value: 1.9694829
